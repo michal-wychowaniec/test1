@@ -1,7 +1,7 @@
 Welcome to Rails
 
 
-
+akapit od zenka.........
 
 
 Rails is a web-application framework that includes everything needed to create 
@@ -21,6 +21,8 @@ layer entitled Active Record. This layer allows you to present the data from
 database rows as objects and embellish these data objects with business logic
 methods. You can read more about Active Record in
 link:files/vendor/rails/activerecord/README.html.
+
+akapit 4 od zenka....
 
 The controller and view are handled by the Action Pack, which handles both
 layers by its two parts: Action View and Action Controller. These two layers
